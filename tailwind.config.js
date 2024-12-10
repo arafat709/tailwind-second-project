@@ -7,8 +7,8 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        "hero":"url('./src/assets/hero.png')",
-        "subs":"url('./src/assets/subs.png')",
+        "hero":"url('/assets/hero.png')",
+        "subs":"url('/assets/subs.png')",
       },
       backgroundColor: {
         "subscolor":"#FF7D68"
